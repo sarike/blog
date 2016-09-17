@@ -1,34 +1,27 @@
 <% if (pagination == 2){ %>
-  <ul class="block">
-    <% page.posts.each(function(post){ %>
-      <li class="post-item">
-        [ <time"><%= date(post.date, null) %></time> ]
-        <a href="<%- url_for(post.path) %>">
-          <%= post.title %>
-        </a>
-      </li>
-    <% }) %>
-  </ul>
-  
+  <%- partial('posts', {posts: page.posts}) %>
 <% } else { %>
   <% var last; %>
   <% page.posts.each(function(post, i){ %>
     <% var year = post.date.year(); %>
     <% if (last != year){ %>
       <% if (last != null){ %>
-        </div></section>
+        </ul></section>
       <% } %>
       <% last = year; %>
       <section class="archives-wrap">
         <div class="archive-year-wrap">
           <a href="<%- url_for(config.archive_dir + '/' + year) %>" class="archive-year"><%= year %></a>
         </div>
-        <div class="archives">
+        <ul class="post-list">
     <% } %>
-    <%- partial('archive-post', {post: post, even: i % 2 == 0}) %>
+    <li class="post-item">
+      <%- partial('post/date', {post: post, date_format: null}) %>
+      <%- partial('post/title', {post: post, index: true}) %>
+    </li>
   <% }) %>
   <% if (page.posts.length){ %>
-    </div></section>
+    </ul></section>
   <% } %>
 <% } %>
 <% if (page.total > 1){ %>

@@ -1,0 +1,8 @@
+<ul class="post-list">
+  <% posts.each(function(post){ %>
+    <li class="post-item">
+      <%- partial('post/date', {post: post, date_format: null}) %>
+      <%- partial('post/title', {post: post, index: true}) %>
+    </li>
+  <% }) %>
+</ul>

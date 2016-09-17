@@ -17,32 +17,82 @@ a
   text-decoration: none;
 
 p
-  line-height: 1.5;
+  line-height: 2rem;
   
 article
-  padding: 0 40px;
   text-align: justify;
+  line-height: 2rem;
   li
-    line-height: 1.5;
+    line-height: 2rem;
   
 #container
-  padding: 1rem 0;
+  padding: 1rem 2rem;
   
-#header, #footer
-  padding-left: 40px;
+#header
+  padding-top: 2rem;
+  margin-bottom: 2rem;
+  .header-inner
+    padding-left: 8rem;
+  h1
+    margin-bottom: 0;
+    line-height: 4rem;
+    font-size: 1.5rem;
+  h2
+    margin-bottom: 0;
+    line-height: 2rem;
+    font-size: 1rem;
+  &::after
+    content: '';
+    display: block;
+    clear: both;
+    
+#nav
+  padding: 1rem 0;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #DDD;
+  a
+    font-weight: bold;
+    margin-right: 1rem;
+  
   
 #footer
   font-size: 12px;
+  margin: 2rem 0;
   
 #comments
-  margin: 1rem 40px;
-    
+  margin: 1rem 0;
+  
+.avatar
+  background: url('./images/avatar.jpeg') center center;
+  background-size: 6rem;
+  border-radius: 6rem;
+  width: 6rem;
+  height: 6rem;
+  border: 1px solid #DDD;
+  float: left;
+
+.post-list
+  padding: 0;
+  list-style: none;  
+
 .post-item
-  line-height: 45px;
+  line-height: 2.5rem;
+  time
+    position: relative;
+    width: 120px;
+    display: inline-block;
+    color: #999;
+    &::after
+      position: absolute;
+      right: 10px;
+      content: "\00BB \0020";
   a
     padding: 5px 0;
     &:hover
       border-bottom: 1px dashed #ddd;
+      
+.archive-year
+  font-weight: bold;
   
   
   
