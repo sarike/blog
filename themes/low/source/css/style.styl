@@ -97,6 +97,36 @@ article
 .article-entry
   .highlight
     margin-bottom: 15px;
+    
+@media (max-width: 768px)
+  #container
+    padding: 1rem;
+    
+  #header
+    margin-bottom: 0;
+    .avatar
+      float: none;
+      margin: 0 auto;
+    .header-inner
+      text-align: center;
+      padding-left: 0;
+      h2
+        font-size: 0.8rem;
+  #nav
+    text-align: center;
+    a
+      margin: 0 0.5rem;
+      &[href="/"]
+        display: none;
+  .post-item
+      line-height: 1.5rem;
+      border: 1px solid #ddd;
+      padding: 0.5rem;
+      margin-bottom: 1rem;
+      border-radius: 4px;
+      time
+        display: block;
+    
   
   
     
