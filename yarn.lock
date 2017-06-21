@@ -446,11 +446,7 @@ dom-serializer@0, dom-serializer@~0.1.0:
     domelementtype "~1.1.1"
     entities "~1.1.1"
 
-domelementtype@1:
-  version "1.3.0"
-  resolved "http://npm.4paradigm.com:4873/domelementtype/-/domelementtype-1.3.0.tgz#b17aed82e8ab59e52dd9c19b1756e0fc187204c2"
-
-domelementtype@~1.1.1:
+domelementtype@1, domelementtype@~1.1.1:
   version "1.1.3"
   resolved "http://npm.4paradigm.com:4873/domelementtype/-/domelementtype-1.1.3.tgz#bd28773e2642881aec51544924299c5cd822185b"
 
@@ -753,6 +749,13 @@ hexo-cli@^1.0.2:
     minimist "^1.2.0"
     object-assign "^4.1.0"
     tildify "^1.2.0"
+
+hexo-deployer-rsync@^0.1.3:
+  version "0.1.3"
+  resolved "http://npm.4paradigm.com:4873/hexo-deployer-rsync/-/hexo-deployer-rsync-0.1.3.tgz#4707c5a47371cb05b47539aac17e09b67060a832"
+  dependencies:
+    chalk "^1.1.3"
+    hexo-util "^0.6.0"
 
 hexo-front-matter@^0.2.2:
   version "0.2.3"

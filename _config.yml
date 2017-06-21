@@ -72,4 +72,12 @@ disqus_shortname: timefly
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: rsync
+  host: timefly.cn
+  user: root
+  root: /var/www/timefly.cn
+  port: 22
+  delete: true
+  verbose: true
+  ignore_errors: false
+

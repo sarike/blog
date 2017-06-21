@@ -9,6 +9,8 @@ tags:
  - Auto Refresh
 ---
 
+{% asset_img far.png 页面自动刷新插件（Free Auto Refresh) %}
+
 这是一个Chrome浏览器插件，可以帮助你以指定的时间间隔自动刷新页面，当然也有很多其他有用的功能。
 
 Google商店链接：[Free Auto Refresh](https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal)。
