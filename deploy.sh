@@ -1,4 +1,4 @@
 #!/bin/bash
 
 hexo generate
-scp -r public/* root@188.166.250.2:/root/local/repos/timefly.cn/
+scp -r public/* root@timefly.cn:/var/www/timefly.cn/
