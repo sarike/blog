@@ -19,9 +19,18 @@ Google商店链接：[Free Auto Refresh](https://chrome.google.com/webstore/deta
 
 这里是改程序的官方页面，有任何问题可以在本页留言，或者给我发邮件。
 
-Change Log:
+## Change Log:
+
+### v 1.0.1
+
+2017-06-21
+
+- 移除一些无用的代码。
+- 根据locale的不同，在Google商店以及浏览器插件列表中展示中文或者英文名称及描述。
 
 ### v 1.0.0 
+
+2017-06-20
 
 第一个版本，主要功能：
 
