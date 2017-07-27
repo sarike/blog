@@ -21,6 +21,12 @@ Google商店链接：[Free Auto Refresh](https://chrome.google.com/webstore/deta
 
 ## Change Log:
 
+### v 1.0.2
+
+2017-07-14
+
+- 添加选项 No Cache，默认关闭，开启以后每次刷新忽略缓存，进行强刷新。
+
 ### v 1.0.1
 
 2017-06-21
