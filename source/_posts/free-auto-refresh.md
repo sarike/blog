@@ -21,6 +21,12 @@ Google商店链接：[Free Auto Refresh](https://chrome.google.com/webstore/deta
 
 ## Change Log:
 
+### v 1.0.3
+
+2017-09-14
+
+- 完善多语言支持，现在在中文系统环境下，插件文案会以中文呈现。
+
 ### v 1.0.2
 
 2017-07-14

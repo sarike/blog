@@ -7,6 +7,8 @@ date: 2017-06-21 16:49:11
 
 ## 1. 页面自动刷新插件（Free Auto Refresh）
 
+[项目主页](../free-auto-refresh) 
+
 一个能让浏览器页面自动刷新的Chrome浏览器插件，Google商店链接：[Free Auto Refresh](https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal)。
 
 做这个东西的原因是当时有个页面需要时刻关注状态变化，所以从Google商店里搜索了一个，如此简单的东西，竟然还要收费 15 刀，于是怒而写一个免费的，这也是为什么名字前面加了个【Free】。
@@ -22,7 +24,7 @@ date: 2017-06-21 16:49:11
 - 可以设置在指定的时间开始刷新。
 - 可以设置是否在任务自动停止或者在指定时间自动开始时弹出通知。
 
-可以关注[项目主页](../free-auto-refresh)以获取更多内容，遇到什么问题可以随时留言或者给我发邮件。
+可以关注 [项目主页](../free-auto-refresh) 以获取更多内容，遇到什么问题可以随时留言或者给我发邮件。
 
 ![](/images/far.png)
 
