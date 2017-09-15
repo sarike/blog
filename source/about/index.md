@@ -19,3 +19,9 @@ Hello，
 我是……
 
 新的一年，一如既往！
+
+======
+
+本人日常从事 Web 前后端研发的工作，如果需要帮助可以联系我：
+
+微信：leobaba88，E-mail：sarike@timefly.cn
