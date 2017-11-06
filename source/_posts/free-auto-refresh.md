@@ -21,6 +21,18 @@ Google商店链接：[Free Auto Refresh](https://chrome.google.com/webstore/deta
 
 ## Change Log:
 
+### v 1.0.5
+
+2017-11-06
+
+- 修复页面倒计时框样式会跟页面样式冲突的问题，倒计时框 css 类修改为：free-auto-refresh-extension-countdown。 
+
+### v 1.0.4
+
+2017-09-14
+
+- 优化部分中文文案 
+
 ### v 1.0.3
 
 2017-09-14
