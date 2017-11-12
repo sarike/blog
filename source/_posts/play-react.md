@@ -17,6 +17,7 @@ React 真的是一个非常棒的前端视图层框架，给前端开发者提�
 - [玩转 React（三）- JavaScript代码里写HTML一样可以很优雅](https://segmentfault.com/a/1190000011403495)
 - [玩转 React（四）- 创造一个新的 HTML 标签](https://segmentfault.com/a/1190000011502742)
 - [玩转 React（五）- 组件的内部状态和生命周期](https://segmentfault.com/a/1190000011776013)
+- [玩转 React（六）- 处理事件](https://segmentfault.com/a/1190000011877137)
 - 持续更新中...
 
 另外，为了更好地方便大家交流，我见了一个微信群 `玩转 React`。由于微信群二维码有时间限制，有意向加入的小伙伴可以加我微信：`leobaba88`，验证信息填写：`玩转 React`，我会拉你进来。
