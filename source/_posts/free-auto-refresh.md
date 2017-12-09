@@ -21,6 +21,12 @@ Google商店链接：[Free Auto Refresh](https://chrome.google.com/webstore/deta
 
 ## Change Log:
 
+### v 1.0.6
+
+2017-12-09
+
+- 支持将时间间隔设置为 0，表示立即刷新。
+
 ### v 1.0.5
 
 2017-11-06
