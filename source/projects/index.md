@@ -5,7 +5,19 @@ date: 2017-06-21 16:49:11
 
 无聊的时候，工作之余会做一些小项目，有些纯粹闲的蛋疼，有些可能也有些小用处。
 
-## 1. 页面自动刷新插件（Free Auto Refresh）
+## 酷书签
+
+一个自动同步某个 Chorme 书签目录，并自动生成导航网页的浏览器插件。
+
+[Chrome 插件地址](https://chrome.google.com/webstore/detail/%E9%85%B7%E4%B9%A6%E7%AD%BE/hfhlcfcnaohckjbbbknibnadmbobfnbn)
+
+[意见反馈](https://vcoders.cn/topic/12)
+
+## 我们程序员社区
+
+链接：[vcoders.cn](https://vcoders.cn)
+
+## 页面自动刷新插件（Free Auto Refresh）
 
 [项目主页](../free-auto-refresh) 
 
@@ -28,7 +40,7 @@ date: 2017-06-21 16:49:11
 
 ![](/images/far.png)
 
-## 2. 时光飞逝小程序
+## 时光飞逝小程序
 
 时光飞逝其实是一个小程序的练手项目，某天在v2ex上有人做了个叫人生进度的小程序，用户输入自己的生日，然后以电池电量的形式展示人生剩余的“电量”，许多网友看到以后纷纷表示因为不能充电，所以很焦虑。
 
@@ -37,13 +49,5 @@ date: 2017-06-21 16:49:11
 如果你想体验，可以在微信小程序页面搜索“时光飞逝“，或者扫描下方的二维码。
 
 ![](/images/wxqrcode.jpg)
-
-## 3. 吃喝飘
-
-一个可以看搞笑视频、搞笑GIF、妹子的，纯粹的，完全没有脱离低级趣味的网站。
-
-链接：[吃喝飘](http://chihepiao.com)
-
-PS：为了满足广大网友手机看妹子的需求，网站是兼容移动端的哟。
 
 
