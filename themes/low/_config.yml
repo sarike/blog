@@ -1,11 +1,12 @@
 # Header
 menu:
   首页: /
-  归档: /archives
+  玩转 React: /play-react
   项目列表: /projects
   游戏部落: /youxibuluo
   关于我: /about
   忠告自己: /to-myself
+  归档: /archives
   
 rss: /atom.xml
 
